@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6842b4e2421837b3064ef6fbe7450ef",
+    "revision": "63d75bdb1465295a4642ab76d4fab36e",
     "url": "/react_miami/index.html"
   },
   {
-    "revision": "403fe5221d47dd4067b8",
-    "url": "/react_miami/static/css/main.3e22cfc9.chunk.css"
+    "revision": "99caa0a00e11a7c5ed21",
+    "url": "/react_miami/static/css/main.d0a508ed.chunk.css"
   },
   {
     "revision": "a05e74b606935385d033",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_miami/static/js/2.5812f268.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "403fe5221d47dd4067b8",
-    "url": "/react_miami/static/js/main.3e1ddbfe.chunk.js"
+    "revision": "99caa0a00e11a7c5ed21",
+    "url": "/react_miami/static/js/main.3fd7d1cd.chunk.js"
   },
   {
     "revision": "b33803c05b29edfdcb1b",
     "url": "/react_miami/static/js/runtime-main.8cf742de.js"
+  },
+  {
+    "revision": "0b7f50293d96f0fd239d7e131cbf6a51",
+    "url": "/react_miami/static/media/footer.0b7f5029.jpg"
   },
   {
     "revision": "329e96d3daf4d8daa0fa5c213c9508e8",
