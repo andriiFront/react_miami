@@ -1,16 +1,17 @@
 import React from 'react';
-import './App.scss';
-import './styles/general.scss';
-import { districts, jobPlaces } from './api/api';
-import { Form } from './components/Form';
+import { Header } from './components/Header';
+import { Main } from './components/Main';
+import { Footer } from './components/Footer';
+// import './App.scss';
 
-const App = () => (
-  <div className="App">
-    <div className="App__title">
-      Заявки на відвідання тренінгу для вчителів
+function App() {
+  return (
+    <div className="App">
+      <Header />
+      <Main />
+      <Footer />
     </div>
-    <Form districts={districts} jobPlaces={jobPlaces} />
-  </div>
-);
+  );
+}
 
 export default App;
