@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_miami/static/css/main.7def491d.chunk.css",
+    "main.css": "/react_miami/static/css/main.4b1d6ebb.chunk.css",
     "main.js": "/react_miami/static/js/main.a9d7bac8.chunk.js",
     "main.js.map": "/react_miami/static/js/main.a9d7bac8.chunk.js.map",
     "runtime-main.js": "/react_miami/static/js/runtime-main.8cf742de.js",
@@ -8,9 +8,9 @@
     "static/js/2.6c1894d9.chunk.js": "/react_miami/static/js/2.6c1894d9.chunk.js",
     "static/js/2.6c1894d9.chunk.js.map": "/react_miami/static/js/2.6c1894d9.chunk.js.map",
     "index.html": "/react_miami/index.html",
-    "precache-manifest.29d122389117cdbfe6ed2507bfa2e664.js": "/react_miami/precache-manifest.29d122389117cdbfe6ed2507bfa2e664.js",
+    "precache-manifest.6cdfae93c4899e749f305d7212de906d.js": "/react_miami/precache-manifest.6cdfae93c4899e749f305d7212de906d.js",
     "service-worker.js": "/react_miami/service-worker.js",
-    "static/css/main.7def491d.chunk.css.map": "/react_miami/static/css/main.7def491d.chunk.css.map",
+    "static/css/main.4b1d6ebb.chunk.css.map": "/react_miami/static/css/main.4b1d6ebb.chunk.css.map",
     "static/js/2.6c1894d9.chunk.js.LICENSE.txt": "/react_miami/static/js/2.6c1894d9.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/react_miami/static/media/1.5504b777.jpg",
     "static/media/10.jpg": "/react_miami/static/media/10.eacc3393.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.8cf742de.js",
     "static/js/2.6c1894d9.chunk.js",
-    "static/css/main.7def491d.chunk.css",
+    "static/css/main.4b1d6ebb.chunk.css",
     "static/js/main.a9d7bac8.chunk.js"
   ]
 }
